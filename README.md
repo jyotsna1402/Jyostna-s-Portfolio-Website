@@ -155,7 +155,8 @@ portfolio/
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](assets/images/screenshot.png)
+![Portfolio Screenshot](assets/images/Screenshot(5).png)
+(assets/images/Screenshot (6).png)(assets/images/Screenshot (7).png)(assets/images/Screenshot (8).png)(assets/images/Screenshot (9).png)
 
 ---
 
