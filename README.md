@@ -4,7 +4,7 @@ The website is a fully responsive personal portfolio website, responsive for all
 Welcome to my personal portfolio website! This is a fully responsive and modern web application designed to showcase my technical skills, projects, experience, and more. Built with passion, purpose, and pixel-perfection.
 
 ## 🚀 Live Demo
-👉 [View My Portfolio](https://yourusername.github.io/your-portfolio-repo-name)  
+👉 [View My Portfolio](https://jyostna1402.github.io/Jyostna-s-Portfolio-Website)  
 *Deployed via GitHub Pages.*
 
 ---
