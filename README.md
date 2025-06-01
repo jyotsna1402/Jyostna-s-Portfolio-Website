@@ -34,16 +34,68 @@ Welcome to my personal portfolio website! This is a fully responsive and modern 
 
 ```bash
 portfolio/
-├── assets/
-│   └── images/
-├── css/
-│   └── styles.css
-├── js/
-│   └── main.js
-├── index.html
-├── README.md
-├── resume.pdf
-└── ...
+C:.
+│   avatar_profilepic.png
+│   index.html
+│   LICENSE
+│   README.md
+│   structure.txt
+│
+├───.github
+│       FUNDING.yml
+│
+└───assets
+    │   avatar_profilepic.png
+    │
+    ├───css
+    │       style.css
+    │
+    ├───images
+    │       avatar-1.png
+    │       avatar-2.png
+    │       avatar-3.png
+    │       avatar-4.png
+    │       avatar_profilepic (1).png
+    │       avatar_profilepic.png
+    │       blog-1.jpg
+    │       blog-2.jpg
+    │       blog-3.jpg
+    │       blog-4.jpg
+    │       blog-5.jpg
+    │       blog-6.jpg
+    │       dancericon.png
+    │       dsaicon.png
+    │       fundamentals.png
+    │       icon-app.svg
+    │       icon-design.svg
+    │       icon-dev.svg
+    │       icon-photo.svg
+    │       icon-quote.svg
+    │       logo-1-color.png
+    │       logo-2-color.png
+    │       logo-3-color.png
+    │       logo-4-color.png
+    │       logo-5-color.png
+    │       logo-6-color.png
+    │       logo.ico
+    │       logo.svg
+    │       my-avatar.png
+    │       Passportnew.jpg
+    │       programing.png
+    │       project-1.jpg
+    │       project-2.png
+    │       project-3.jpg
+    │       project-4.png
+    │       project-5.png
+    │       project-6.png
+    │       project-7.png
+    │       project-8.jpg
+    │       project-9.png
+    │       tool.png
+    │       webdev.png
+    │
+    └───js
+            script.js
 
 
 
